@@ -1,5 +1,7 @@
 # ExitKit AI
 
+Публичное демо: https://exitkit-ai-umberto16.streamlit.app/
+
 Демо передачи дел из TXT, Markdown, текстовых PDF и DOCX. Streamlit собирает
 проекты, задачи, риски, контакты и вопросы; отчёт доступен в PDF и Markdown.
 
